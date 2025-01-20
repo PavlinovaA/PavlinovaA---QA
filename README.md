@@ -12,5 +12,5 @@
 
 [Решение](https://docs.google.com/spreadsheets/d/1ID-otB0Pxybpbt79wGAFqwsoCOJ52zNPfo-DCjxMKrY/edit?usp=sharing)
 ***
-
-[Итоговая работа по курсу Тестировщик ПО.pptx](https://github.com/user-attachments/files/18482632/default.pptx)
+Задание 3: Итоговая работа
+[Решение](https://github.com/user-attachments/files/18482632/default.pptx)
