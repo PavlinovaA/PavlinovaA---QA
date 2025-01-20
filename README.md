@@ -1,1 +1,1 @@
-# PavlinovaA---QA
+# Manual_testing
