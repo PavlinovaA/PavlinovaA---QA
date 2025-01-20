@@ -10,3 +10,5 @@
 Задание 2: Составить чек-листы, тест-кейсы, оформить баг-репорты. Оформить в Excel-таблице.
 
 [Решение](https://docs.google.com/spreadsheets/d/1ID-otB0Pxybpbt79wGAFqwsoCOJ52zNPfo-DCjxMKrY/edit?usp=sharing)
+
+[Итоговая работа.pptx](https://github.com/user-attachments/files/18482632/default.pptx)
