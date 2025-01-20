@@ -6,9 +6,11 @@
 
 Решение:
 ![Тестирование карандаша](https://github.com/user-attachments/assets/3800c06b-21c0-430e-97ea-4e21d2bf5ea8)
+---
 
 Задание 2: Составить чек-листы, тест-кейсы, оформить баг-репорты. Оформить в Excel-таблице.
 
 [Решение](https://docs.google.com/spreadsheets/d/1ID-otB0Pxybpbt79wGAFqwsoCOJ52zNPfo-DCjxMKrY/edit?usp=sharing)
+---
 
-[Итоговая работа.pptx](https://github.com/user-attachments/files/18482632/default.pptx)
+[Итоговая работа по курсу Тестировщик ПО.pptx](https://github.com/user-attachments/files/18482632/default.pptx)
